@@ -1,0 +1,12 @@
+# requirements.txt — EcoQuest Photo Validation Service (standalone)
+
+fastapi==0.140.0
+uvicorn==0.51.0
+pydantic==2.13.4
+onnxruntime
+tokenizers
+scikit-learn==1.9.0
+pillow==12.3.0
+requests==2.34.2
+joblib==1.5.3
+numpy
